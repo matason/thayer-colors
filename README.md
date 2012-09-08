@@ -1,6 +1,6 @@
 # Thayer iTerm2/Vim Color Scheme
 
-![](screenshot.png)
+![](https://raw.github.com/chrishunt/thayer-colors/master/screenshot.png)
 
 **Vim** | [Vimbrant](https://bitbucket.org/thayerwilliams/vimbrant/src/8abddd01c05e/vimbrant.vim), by Thayer Williams
 
